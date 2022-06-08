@@ -4,8 +4,7 @@
 # and then loops forever restarting the tracker program if it ever exits.
 #
 
-cd /home/pi/OverPutney
-source bin/activate
+source venv/bin/activate
 
 
 while :
